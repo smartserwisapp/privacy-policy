@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Polityka Prywatności / Privacy Policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 {
+            color: #111;
+        }
+        hr {
+            margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Polityka Prywatności</h1>
+<p><strong>Data ostatniej aktualizacji:</strong> 15.01.2026</p>
+
+<h2>1. Informacje ogólne</h2>
+<p>Niniejsza Polityka Prywatności dotyczy aplikacji mobilnej <strong>Smart_serwis</strong>.</p>
+<p>Administratorem danych osobowych jest <strong>Piotr Kowal</strong> (osoba prywatna).<br>
+Kontakt: <strong>smart.serwis.app@gmail.com</strong></p>
+<p>Aplikacja jest dostępna dla użytkowników na całym świecie.</p>
+
+<h2>2. Zakres przetwarzanych danych</h2>
+<ul>
+    <li>numery telefonów</li>
+    <li>nazwy urządzeń przyjętych do naprawy</li>
+    <li>opisy usterek i notatki serwisowe</li>
+    <li>dane z książki kontaktów (wyłącznie w celu wyboru numeru telefonu)</li>
+    <li>dane dotyczące zakupów w aplikacji</li>
+</ul>
+<p>Aplikacja nie wymaga logowania ani tworzenia kont użytkowników.</p>
+
+<h2>3. Cel przetwarzania danych</h2>
+<p>Dane przetwarzane są wyłącznie w celu zarządzania naprawami, ułatwienia kontaktu z klientem oraz realizacji zakupów w aplikacji.</p>
+
+<h2>4. Komunikacja (SMS, WhatsApp, połączenia)</h2>
+<p>Aplikacja nie wysyła automatycznie wiadomości SMS, WhatsApp ani nie wykonuje połączeń. Otwiera jedynie aplikacje systemowe z wypełnionym numerem lub treścią wiadomości.</p>
+
+<h2>5. Dostęp do kontaktów</h2>
+<p>Dostęp do książki kontaktów służy wyłącznie do wyboru numeru telefonu i nie powoduje przesyłania danych na zewnętrzne serwery.</p>
+
+<h2>6. Zakupy w aplikacji</h2>
+<p>Zakupy realizowane są za pośrednictwem Google Play oraz RevenueCat. Aplikacja nie przetwarza danych płatniczych.</p>
+
+<h2>7. Przechowywanie danych</h2>
+<p>Dane przechowywane są lokalnie na urządzeniu użytkownika do momentu usunięcia aplikacji.</p>
+
+<h2>8. Udostępnianie danych</h2>
+<p>Dane nie są sprzedawane ani udostępniane osobom trzecim poza obsługą zakupów w aplikacji.</p>
+
+<h2>9. Prawa użytkownika</h2>
+<p>Użytkownik ma prawo do dostępu do danych, ich usunięcia oraz ograniczenia przetwarzania.</p>
+
+<hr>
+
+<h1>Privacy Policy</h1>
+<p><strong>Last updated:</strong> 15.01.2026</p>
+
+<h2>1. General Information</h2>
+<p>This Privacy Policy applies to the mobile application <strong>Smart_serwis</strong>.</p>
+<p>Data Controller: <strong>Piotr Kowal</strong> (private individual)<br>
+Contact: <strong>smart.serwis.app@gmail.com</strong></p>
+<p>The application is available worldwide.</p>
+
+<h2>2. Data Collected</h2>
+<ul>
+    <li>phone numbers</li>
+    <li>device names</li>
+    <li>repair descriptions and service notes</li>
+    <li>contact list data (only for selecting a phone number)</li>
+    <li>in-app purchase data</li>
+</ul>
+
+<h2>3. Purpose</h2>
+<p>Data is processed only to manage repairs, facilitate communication, and enable in-app purchases.</p>
+
+<h2>4. Communication</h2>
+<p>The application does not automatically send messages or make calls. It only opens system applications with pre-filled data.</p>
+
+<h2>5. Contacts Access</h2>
+<p>Contacts access is used only to select a phone number and data is not transmitted externally.</p>
+
+<h2>6. In-App Purchases</h2>
+<p>Purchases are handled via Google Play and RevenueCat. No payment data is stored by the app.</p>
+
+<h2>7. Data Storage</h2>
+<p>All data is stored locally on the user's device.</p>
+
+<h2>8. Data Sharing</h2>
+<p>No personal data is sold or shared except for purchase processing.</p>
+
+<h2>9. User Rights</h2>
+<p>Users may access, delete, or restrict processing of their data.</p>
+
+</body>
+</html>
